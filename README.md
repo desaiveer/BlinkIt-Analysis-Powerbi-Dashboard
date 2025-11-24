@@ -51,5 +51,5 @@ SQL (joins, CTEs, transformations)
 Power Query (ETL, automation, data quality)
 Excel (data cleaning & preprocessing)
 
-##Dashboard 
+## Dashboard 
 <a href="https://github.com/desaiveer/BlinkIt-Analysis-Powerbi-Dashboard/blob/main/blinkit.png">
